@@ -1,0 +1,28 @@
+/* CSS Document */
+	p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 16px;
+	 line-height: 18px;
+	 width: 600px;
+	 background-color: antiquewhite;
+	 padding: 20px; 
+	 }
+	 .paragraf_2 {color:drakcyan; background-color: rgba(255, 255, 255, 0.5)}
+	 .novi_blok {
+	 background-color: rgba(255, 255, 255, 0.9);
+	 padding:20px;
+	 margin:20px;
+	 width:50%;
+	 }
+	h1, h2 {font-family: Arial, Helvetica, sans-serif; 
+	color:cadetblue;
+	}
+	
+
+	span {color: rgb(255, 0, 255);}
+	body{
+		background-image: url("../slike i ostalo/zalazak1.webp");
+	}
+	
+
